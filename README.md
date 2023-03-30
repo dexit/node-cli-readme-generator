@@ -17,9 +17,7 @@ Live Url : ``` please use the video recording below ```
 You can see the example README that was generated with this tool here
 \
 ```/Develop/README.MD```
-\ 
-and
-\
+<br> and <br>
 ```/Develop/GeneratedReadme.md```
 
 ## Directions of usage
