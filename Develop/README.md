@@ -1,52 +1,57 @@
 
-  # tertert
-  ![License: BSD](https://img.shields.io/badge/License-BSD-red.svg)](https://opensource.org/licenses/BSD)
+# Node CLI Readme Generator MD
+
+  [![License: GPL](https://img.shields.io/badge/License-GPL-green.svg)](https://opensource.org/licenses/GPL)
   
-  ## Description
+## Description
   
-  ertert
-<br>ertertr
-<br>eter
-<br>tre
-<br>tr
-<br>e
+  This app prompts the user for information about their project and generates a README.md file based on the input.
+<br>The README.md file includes the project:
+<br>*title
+<br>* description
+<br>*installation
+<br>* instructions
+<br>*usage information
+<br>* contribution guidelines
+<br>* test instructions,
+<br>* license information
+<br>* contact information.
+<br>
   
-  ## Table of Contents
+## Table of Contents
   
+- [Node CLI Readme Generator MD](#node-cli-readme-generator-md)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Credits](#Credits)
+  - [Contribution](#contribution)
   - [Tests](#tests)
   - [Questions](#questions)
   
-  ## Installation
+## Installation
   
-  ewrwer
+  1. Clone the repository<br>2. open the repo directory, then navigate to ``` /Develop/ ``` <br> 3. run ```npm install``` <br>
   
-  ## Usage
+## Usage
   
-  werwer
-  
-
+  Run from /Develop/ folder by typin gin terminal ``` node index ```
   
 ## License
 
-[![License: BSD](https://img.shields.io/badge/License-BSD-red.svg)] (https://opensource.org/licenses/BSD)
-This project is licensed under the BSD license.
+[![License: GPL](https://img.shields.io/badge/License-GPL-green.svg)] (<https://opensource.org/licenses/GPL>)
+This project is licensed under the GPL license.
 
+## Contribution
   
+- Raise issues<br> or <br> *Create Pull Requests <br> and then <br>* Get Approved
   
+## Tests
   
-  ## Credits
+  This is part of todo
   
-  werwer
+## Questions
   
-  ## Tests
-  
-  werwer
-  
-  ## Questions
-  
-  If you have any questions, please contact me at dexit@dyc.lv. You can also check out my GitHub profile at https://github.com/dExIT.
+  If you have any questions, please contact me at dexit@dyc.lv. You can also check out my GitHub profile at <https://github.com/dExIT>.
   
