@@ -9,9 +9,9 @@
 <br>The README.md file includes the project:
 <br>*title
 <br>* description
-<br>*installation
+<br>* installation
 <br>* instructions
-<br>*usage information
+<br>* usage information
 <br>* contribution guidelines
 <br>* test instructions,
 <br>* license information
@@ -40,7 +40,7 @@
   
 ## License
 
-[![License: GPL](https://img.shields.io/badge/License-GPL-green.svg)] (<https://opensource.org/licenses/GPL>)
+[![License: GPL](https://img.shields.io/badge/License-GPL-green.svg)] (https://opensource.org/licenses/GPL)
 This project is licensed under the GPL license.
 
 ## Contribution
