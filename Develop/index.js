@@ -62,17 +62,38 @@ const questions = [
     message: 'What is your email address?'
   }
 ];
-inquirer.prompt(questions).then((answers) => {
-    console.log(JSON.stringify(answers, null, '  '));
-  });
+
 
 
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+   const fileNameToUse = fileName;
+   const readmeRender =  generateMarkdown(data);
+    fs.writeFile(fileNameToUse, readmeRender, (err) => {
+      if (err) {
+        console.log(err);
+      } else {
+        console.log('README.md file generated successfully!');
+      }
+    });
+}
 
 // TODO: Create a function to initialize app
-function init() {}
-
+function init() {
+inquirer.prompt(questions).then((answers) => {
+  
+ const readmeTitle = 'README.md';
+    const readmeRender =  generateMarkdown(answers);
+    console.log(JSON.stringify(answers, null, '  '));
+  try
+  { 
+writeToFile(readmeTitle, answers);
+  }catch(err){
+  console.log(err);
+}
+    
+  });
+}
 // Function call to initialize app
 init();
