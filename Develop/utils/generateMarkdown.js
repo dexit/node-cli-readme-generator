@@ -30,18 +30,18 @@ function generateMarkdown(answers) {
   const licenceSection = renderLicenseSection(answers.license);
   const licenceBadge = renderLicenseBadge(answers.license);
   const licenceLink = renderLicenseLink(answers.license);
-  const repoDescr = (answers) => {
+  
     const therealdeal = answers.description;
-    const split = therealdeal.split('\n');
-    return split.join('<br>');
-  }
+    const split = therealdeal.split('\n').join('<br>');
+ //   return ;
+ // }
   return `
   # ${answers.title}
   ${licenceBadge}${licenceLink}
   
   ## Description
   
-  ${repoDescr}
+  ${split}
   
   ## Table of Contents
   

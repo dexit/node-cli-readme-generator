@@ -1,42 +1,45 @@
 
-  # rfwerw
+  # tertert
+  ![License: BSD](https://img.shields.io/badge/License-BSD-red.svg)](https://opensource.org/licenses/BSD)
   
   ## Description
   
-  werewrw
-rwerwerwer
-werwer
+  ertert<br>ertertr<br>eter<br>tre<br>tr<br>e
   
   ## Table of Contents
   
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#contributing)
+  - [Credits](#Credits)
   - [Tests](#tests)
   - [Questions](#questions)
   
   ## Installation
   
-  rgerter
+  ewrwer
   
   ## Usage
   
-  ertert
+  werwer
   
-  ## License
+
   
-  [![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL)
+## License
+
+![License: BSD](https://img.shields.io/badge/License-BSD-red.svg)] (https://opensource.org/licenses/BSD)
+This project is licensed under the BSD license.
+
   
-  This project is licensed under the GPL license.
   
-  ## Contributing
   
-  ertertert
+  ## Credits
+  
+  werwer
   
   ## Tests
   
-  ertert
+  werwer
   
   ## Questions
   
