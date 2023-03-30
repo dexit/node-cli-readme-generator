@@ -4,7 +4,12 @@
   
   ## Description
   
-  ertert<br>ertertr<br>eter<br>tre<br>tr<br>e
+  ertert
+<br>ertertr
+<br>eter
+<br>tre
+<br>tr
+<br>e
   
   ## Table of Contents
   
@@ -27,7 +32,7 @@
   
 ## License
 
-![License: BSD](https://img.shields.io/badge/License-BSD-red.svg)] (https://opensource.org/licenses/BSD)
+[![License: BSD](https://img.shields.io/badge/License-BSD-red.svg)] (https://opensource.org/licenses/BSD)
 This project is licensed under the BSD license.
 
   
