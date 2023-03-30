@@ -20,7 +20,7 @@ return `
 ## License
 
 ${badge} ${link}
-This project is licensed under the ${answers.license} license.
+This project is licensed under the ${license} license.
 
   `;
 }
@@ -30,7 +30,7 @@ function generateMarkdown(answers) {
   const licenceSection = renderLicenseSection(answers.license);
   const licenceBadge = renderLicenseBadge(answers.license);
   const licenceLink = renderLicenseLink(answers.license);
-  const repoDescr = () => {
+  const repoDescr = (answers) => {
     const therealdeal = answers.description;
     const split = therealdeal.split('\n');
     return split.join('<br>');
