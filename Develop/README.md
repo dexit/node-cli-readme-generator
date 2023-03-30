@@ -45,7 +45,11 @@ This project is licensed under the GPL license.
 
 ## Contribution
   
-- Raise issues<br> or <br> *Create Pull Requests <br> and then <br>* Get Approved
+- Raise issues
+<br> or <br> 
+- Create Pull Requests
+<br> and then <br>
+- Get Approved
   
 ## Tests
   
