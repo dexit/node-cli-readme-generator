@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   const colorr = license === 'MIT' ? 'yellow' : license === 'Apache' ? 'blue' : license === 'GPL' ? 'green' : 'red';
-  return `![License: ${license}](https://img.shields.io/badge/License-${license}-${colorr}.svg)]`;
+  return `[![License: ${license}](https://img.shields.io/badge/License-${license}-${colorr}.svg)]`;
 }
 
 // TODO: Create a function that returns the license link
@@ -30,7 +30,7 @@ function generateMarkdown(answers) {
   const licenceSection = renderLicenseSection(answers.license);
   const licenceBadge = renderLicenseBadge(answers.license);
   const licenceLink = renderLicenseLink(answers.license);
-  
+  //const credited = answers.contributing.split(',');
     const therealdeal = answers.description;
     const split = therealdeal.split('\n').join('<br>');
  //   return ;
@@ -48,7 +48,7 @@ function generateMarkdown(answers) {
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Credits](#Credits)
+  - [Contribution](#Contribution)
   - [Tests](#tests)
   - [Questions](#questions)
   
@@ -64,7 +64,7 @@ function generateMarkdown(answers) {
   ${licenceSection}
   
   
-  ## Credits
+  ## Contribution
   
   ${answers.contributing}
   
