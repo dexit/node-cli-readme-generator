@@ -6,16 +6,16 @@
 ## Description
   
   This app prompts the user for information about their project and generates a README.md file based on the input.
-<br>The README.md file includes the project:
-<br>* title
-<br>* description
-<br>* installation
-<br>* instructions
-<br>* usage information
-<br>* contribution guidelines
-<br>* test instructions,
-<br>* license information
-<br>* contact information.
+The README.md file includes the project:
+* title
+* description
+* installation
+* instructions
+* usage information
+* contribution guidelines
+* test instructions,
+* license information
+* contact information.
 <br>
   
 ## Table of Contents
