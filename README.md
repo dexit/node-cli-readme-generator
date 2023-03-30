@@ -1,4 +1,4 @@
-![readmegenScreen](https://user-images.githubusercontent.com/6205151/228983781-e41627a2-bccd-4b87-bdce-80935b0c7f77.jpg))
+![readmegenScreen](https://user-images.githubusercontent.com/6205151/228983781-e41627a2-bccd-4b87-bdce-80935b0c7f77.jpg)
 # node-cli-readme-generator project
 
 ## Information:
