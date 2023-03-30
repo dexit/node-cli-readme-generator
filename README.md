@@ -16,6 +16,7 @@ You can see the example README that was generated with this tool here ```/Develo
 
 ## Video Recording - Walkthrough
 
-[To Watch Online](https://drive.google.com/uc?id=1y-5SeXiECAMk19VGX6zOAIQBEcikyIrY)
+[To Watch Online](https://drive.google.com/uc?id=1y-5SeXiECAMk19VGX6zOAIQBEcikyIrY) 
+\
 [Direct Download](https://drive.google.com/uc?id=1y-5SeXiECAMk19VGX6zOAIQBEcikyIrY&export=download)
 
