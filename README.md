@@ -12,15 +12,17 @@ Live Url : ``` please use the video recording below ```
 [To Watch Online](https://drive.google.com/uc?id=1y-5SeXiECAMk19VGX6zOAIQBEcikyIrY) 
 \
 [Direct Download](https://drive.google.com/uc?id=1y-5SeXiECAMk19VGX6zOAIQBEcikyIrY&export=download)
+### Examples 
+
+You can see the example README that was generated with this tool here ```/Develop/README.MD``` and ```/Develop/GeneratedReadme.md```
+
 ## Directions of usage
 Please use the ```/Develop``` folder:
 * clone repo then move to  ```Develop```
 * run ```npm install```
 * then run ```node index```
 
-## Example
 
-You can see the example README that was generated with this tool here ```/Develop/GeneratedReadme.md```
 
 
 
