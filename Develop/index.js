@@ -1,8 +1,9 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
+const chalkPipe = require('chalk-pipe')
 const generateMarkdown = require('./utils/generateMarkdown.js');
-
+inquirer.registerPrompt('chalk-pipe', require('.'));
 // TODO: Create an array of questions for user input
 
 
@@ -17,8 +18,8 @@ const questions = [
     name: 'description',
     message: 'Please write a short description of at least 3 lines. New Text editor window will open to finish close it',
             validate(text) {
-              if (text.split('\n').length < 3) {
-                return 'Must be at least 3 lines.';
+              if (text.split('\n').length < 2) {
+                return 'Must be at least 2 lines.';
               }
         
               return true;
@@ -29,6 +30,7 @@ const questions = [
     type: 'input',
     name: 'installation',
     message: 'Please provide installation instructions for your project:'
+    
   },
   {
     type: 'input',
